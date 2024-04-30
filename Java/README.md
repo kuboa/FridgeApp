@@ -7,13 +7,8 @@ FridgeApp は、冷蔵庫にある食材を元にレシピを検索できるア�
 
 Java 17 以上
 JavaFX SDK 17 以上
-これらのソフトウェアは以下のリンクからダウンロードしてください：
 
-Java: Oracle Java SE Downloads
-JavaFX SDK: Gluon JavaFX
-
-
-インストール方法
+アプリインストール方法
 プロジェクトのセットアップとビルドを行うには、以下の手順に従ってください。
 
 コマンドプロンプトを開き、Java ディレクトリまで移動します。
@@ -31,4 +26,4 @@ java --module-path \YourPath\javafx-sdk-22.0.1\lib --add-modules javafx.controls
 
 注意点
 アプリケーションのインターフェースは英語のみ対応しています。
-レシピ名等の入力は英語で行う必要があります。
+食材名等の入力は英語で行う必要があります。
